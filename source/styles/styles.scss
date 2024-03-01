@@ -2,6 +2,10 @@
 @import "./global/variables.scss";
 @import "./global/global.scss";
 @import "./global/fonts.scss";
+@import "./global/visually-hidden.scss";
 
 /* BLOCKS */
 @import "./blocks/header.scss";
+@import "./blocks/button.scss";
+@import "./blocks/catalog.scss";
+@import "./blocks/card.scss";
